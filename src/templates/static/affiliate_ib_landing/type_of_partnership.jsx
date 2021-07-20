@@ -213,7 +213,7 @@ const TypesOfPartnership = () => (
                                             { text: it.L('7.50') },
                                         ],
                                         [
-                                            { text: it.L('Step Index') },
+                                            { text: it.L('Step index') },
                                             { text: it.L('0.10') },
                                         ],
                                         [
